@@ -1,0 +1,33 @@
+2017-02-04 08:12:59,823->INFO->###### program started###
+2017-02-04 08:13:01,702->ERROR->'int' object is not callable
+Traceback (most recent call last):
+  File "app1.py", line 17, in <module>
+    logging.DEBUG(res)
+TypeError: 'int' object is not callable
+2017-02-04 08:13:01,708->INFO->Program ended
+2017-02-04 08:14:02,585->INFO->###### program started###
+2017-02-04 08:14:04,563->ERROR->'int' object is not callable
+Traceback (most recent call last):
+  File "app1.py", line 17, in <module>
+    logging.DEBUG("{0}".format(res))
+TypeError: 'int' object is not callable
+2017-02-04 08:14:04,569->INFO->Program ended
+2017-02-04 08:14:31,345->INFO->###### program started###
+2017-02-04 08:14:32,464->DEBUG->2
+2017-02-04 08:14:32,464->INFO->Program ended
+2017-02-04 08:14:55,345->INFO->###### program started###
+2017-02-04 08:14:58,873->WARNING->Expecting digit given we
+2017-02-04 08:14:58,877->WARNING->Expecting digit given er
+2017-02-04 08:14:58,878->ERROR->invalid literal for int() with base 10: 'we'
+Traceback (most recent call last):
+  File "app1.py", line 13, in <module>
+    a=int(a)
+ValueError: invalid literal for int() with base 10: 'we'
+2017-02-04 08:14:58,879->INFO->Program ended
+2017-02-04 08:21:10,231->INFO->Fucition started
+2017-02-04 08:21:10,241->WARNING->function body
+2017-02-04 08:21:10,241->DEBUG->RESULT:30
+2017-02-04 08:21:10,242->INFO->function ended
+2017-02-04 08:21:10,242->INFO->###### program started###
+2017-02-04 08:21:12,012->DEBUG->0
+2017-02-04 08:21:12,018->INFO->Program ended

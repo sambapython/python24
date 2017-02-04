@@ -1,0 +1,33 @@
+WARNING:root:this is warn message
+ERROR:root:This is exception message
+None
+ERROR:root:eroor message
+INFO:root:**********This is info message*************
+DEBUG:root:This id debug message
+WARNING:root:this is warn message
+ERROR:root:This is exception message
+None
+ERROR:root:eroor message
+WARNING:root:this is warn message
+ERROR:root:This is exception message
+None
+ERROR:root:eroor message
+INFO:root:**********This is info message*************
+DEBUG:root:This id debug message
+WARNING:root:this is warn message
+ERROR:root:This is exception message
+None
+ERROR:root:eroor message
+2017-02-04 08:07:13,155->INFO->**********This is info message*************
+2017-02-04 08:07:13,159->DEBUG->This id debug message
+2017-02-04 08:07:13,162->WARNING->this is warn message
+2017-02-04 08:07:13,162->ERROR->This is exception message
+None
+2017-02-04 08:07:13,166->ERROR->eroor message
+2017-02-04 08:12:23,242->INFO->**********This is info message*************
+2017-02-04 08:12:23,248->DEBUG->This id debug message
+2017-02-04 08:12:23,253->WARNING->this is warn message
+2017-02-04 08:12:23,254->ERROR->This is exception message
+None
+2017-02-04 08:12:23,254->ERROR->eroor message
+2017-02-04 08:12:36,280->INFO->###### program started###
